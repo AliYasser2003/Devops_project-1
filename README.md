@@ -1,5 +1,5 @@
-DevOps Project 1
-*******************
+DevOps Project 1 --Simple Nose.js App
+****************************************
 This is my first DevOps project where I built a simple Node.js application and automated its
 deployment using Docker, GitHub Actions, and AWS EC2.
 
